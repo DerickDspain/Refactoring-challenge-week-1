@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Replaced div with nav to correlate with nav tag in HTML*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,11 +31,11 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/*Changed div tag to correlate with nav tag in html*/
 .header nav ul {
     list-style-type: none;
 }
-
+/*Changed div tag to correlate with with nav tag in html*/
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -51,9 +51,11 @@ p {
 }
 
 .hero {
+    /*Adjusted height to allow img to display correctly*/
     height: 950px;
     width: 100%;
     margin-bottom: 25px;
+    /*Commented out background-image and placed an img src in html to add alt tag*/
     /*background-image: url("../images/digital-marketing-meeting.jpg");*/
     background-size: cover;
     background-position: center;
