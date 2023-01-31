@@ -52,7 +52,7 @@ p {
 
 .hero {
     /*Adjusted height to allow img to display correctly*/
-    height: 950px;
+    height: 1000px;
     width: 100%;
     margin-bottom: 25px;
     /*Commented out background-image and placed an img src in html to add alt tag*/
