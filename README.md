@@ -16,7 +16,7 @@ The main criteria for this challenge was for us as a student to defactor the HTM
 ## What other changes were made?
 Only one other change was made and that was an addition of an "id" within a section to allow the link to work properly. (Ref. Line 34)
 
-https://derickdspain.github.io/UTSA-Challenge-1/
+https://derickdspain.github.io/Refactoring-challenge-week-1/
 
 
 
